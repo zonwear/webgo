@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://zonwear.pages.dev/sitemap.xml
+Sitemap: https://webgo-3ju.pages.dev/sitemap.xml
